@@ -34,7 +34,6 @@ Para rodar este projeto em sua máquina local, siga os passos:
 
 ### Clone o repositório:
 
-```bash
 git clone https://github.com/juliamariaa/qr-code-component
 
 ## 👩‍💻 Autor
