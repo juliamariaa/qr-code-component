@@ -17,7 +17,7 @@ Usuários devem ser capazes de:
 
 ## 🖼️ Screenshot
 
-[Inclua aqui a imagem do screenshot, se disponível]
+![preview do design](design-preview.png)
 
 ---
 
@@ -36,3 +36,11 @@ Para rodar este projeto em sua máquina local, siga os passos:
 
 ```bash
 git clone https://github.com/juliamariaa/qr-code-component
+
+## 👩‍💻 Autor
+
+**[Júlia Maria](https://www.linkedin.com/in/juliamaria/)**
+
+- GitHub: [@juliamariadev](https://github.com/juliamariadev)  
+- Instagram: [@juliamaria.dev](https://www.instagram.com/juliamaria.dev/)  
+- Behance: [juliamariadev](https://www.behance.net/juliamariadev)
