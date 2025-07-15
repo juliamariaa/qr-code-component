@@ -40,7 +40,7 @@ git clone https://github.com/juliamariaa/qr-code-component
 
 **Júlia Maria** é desenvolvedora front-end apaixonada por transformar ideias em interfaces funcionais e impactantes. Atua com foco em design, usabilidade e performance, compartilhando seu conhecimento e projetos nas redes abaixo:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/juliamaria/)
-- 💻 [GitHub](https://github.com/juliamariadev)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-maria/)
+- 💻 [GitHub](https://github.com/juliamariaa)  
 - 📸 [Instagram](https://www.instagram.com/juliamaria.dev/)  
 - 🎨 [Behance](https://www.behance.net/juliamariadev)
