@@ -36,10 +36,11 @@ Para rodar este projeto em sua máquina local, siga os passos:
 
 git clone https://github.com/juliamariaa/qr-code-component
 
-## 👩‍💻 Autor
-Júlia Maria
+## 👩‍💻 Sobre a autora
 
-- Linkedin: (https://www.linkedin.com/in/juliamaria/)
-- GitHub: (https://github.com/juliamariadev)  
-- Instagram: (https://www.instagram.com/juliamaria.dev/)  
-- Behance: (https://www.behance.net/juliamariadev)
+**Júlia Maria** é desenvolvedora front-end apaixonada por transformar ideias em interfaces funcionais e impactantes. Atua com foco em design, usabilidade e performance, compartilhando seu conhecimento e projetos nas redes abaixo:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/juliamaria/)
+- 💻 [GitHub](https://github.com/juliamariadev)  
+- 📸 [Instagram](https://www.instagram.com/juliamaria.dev/)  
+- 🎨 [Behance](https://www.behance.net/juliamariadev)
