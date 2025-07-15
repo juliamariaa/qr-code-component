@@ -8,6 +8,7 @@
   --azul-500:  hsl(216, 15%, 48%);
   --azul-900: hsl(218, 44%, 22%);
 
+  --titulo: 20px;
   --paragrafo: 15px;
 }
 
@@ -25,5 +26,35 @@
   justify-content: center;
   align-items: center;
   background: var(--azul-300);
+}
+
+.card{
+  background: var(--branco);
+  max-width: 300px;
+  width: 100%;
+  padding: 20px 20px 40px;
+  margin: 0 16px;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.card img{
+  width: 100%;
+  border-radius: 20px;
+}
+
+.card h1{
+  font-size: var(--titulo);
+  font-weight: 700;
+  line-height: 1.2;
+  color: var(--azul-900);
+  margin-top: 18px;
+}
+
+.card p{
+  font-size: var(--paragrafo);
+  font-weight: 300;
+  color: var(--azul-500);
+  margin-top: 10px;
 }
 
